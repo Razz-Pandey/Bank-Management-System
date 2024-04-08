@@ -1,0 +1,7 @@
+
+Name : arya
+Account no. : 123456
+
+Rs1000 had been withdrawn from your account 
+Date/Time of transaction :  Mon Apr 08 07:50:11 2024
+
